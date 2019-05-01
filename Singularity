@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: bensonyang88/hpl-cuda:v1
+From: bensonyang88/hpl-cuda:v0
